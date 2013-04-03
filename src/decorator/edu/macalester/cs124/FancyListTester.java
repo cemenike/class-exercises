@@ -7,6 +7,17 @@ package decorator.edu.macalester.cs124;
  */
 public class FancyListTester {
 	
+	public static void main(String args[]) {
+
 	FancyList<String> listName = new FancyList<String>();
+	
+	//add strings
+	//listName.add()
+	
+	//reverse
+	
+	//print out new list
+	System.out.println(listName);
+	}
 
 }
